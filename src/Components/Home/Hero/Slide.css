@@ -1,0 +1,224 @@
+.Slide1{
+  width: 100%;
+  height: 600px;
+  background: url(./Participant/lsetf01.jpeg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Slidehold{
+  width: 500px;
+  height: 360px;
+  background: rgba(255, 255, 255, 0.3);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 15px;
+  position: absolute;
+  top: 30%;
+  left: 5%;
+  text-align: left;
+}
+
+@media screen and (max-width: 700px){
+  .Slidehold{
+    top: 20%;
+    width: 250px;
+    height: 430px;
+  }
+
+  .Slidehold> p{
+    font-size: 15px;
+  }
+
+  .Slidehold> h1{
+    font-size: 16px;
+  }
+}
+
+
+.Slidehold> h1,p{
+  margin-left: 15px;
+  margin-right: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 650;
+}
+
+.Slidehold> h1,p{
+  font-size: 16px;
+  margin: 5px;
+}
+
+.Slide2{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf02.jpeg);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+}
+
+.Slide3{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf03.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide4{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf04.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide5{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf05.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide6{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf06.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide7{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf07.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide8{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf08.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide9{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf09.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide10{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf10.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide11{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf11.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide12{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf12.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide13{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf13.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide14{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf14.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide15{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf15.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide16{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf16.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide17{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf18.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide18{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf17.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide19{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf19.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide20{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf20.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide21{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf21.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.Slide22{
+  width: 100%;
+  height: 500px;
+  background: url(./Participant/lsetf22.jpeg);
+  background-position: center;
+  background-size: cover;
+}
